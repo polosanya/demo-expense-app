@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/demo-expense-app/static/css/main.bde491a5.css",
+    "main.js": "/demo-expense-app/static/js/main.06653490.js",
+    "static/media/footer.svg": "/demo-expense-app/static/media/footer.2190fce3f913b7fa95afd06be3f41b52.svg",
+    "static/media/title.svg": "/demo-expense-app/static/media/title.dc30a3601aa899a385d14ef19c0324e8.svg",
+    "static/media/logo.svg": "/demo-expense-app/static/media/logo.815b5ac6bbd72f74651c3b955b6c21da.svg",
+    "index.html": "/demo-expense-app/index.html",
+    "main.bde491a5.css.map": "/demo-expense-app/static/css/main.bde491a5.css.map",
+    "main.06653490.js.map": "/demo-expense-app/static/js/main.06653490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bde491a5.css",
+    "static/js/main.06653490.js"
+  ]
+}
